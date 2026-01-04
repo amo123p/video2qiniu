@@ -1,0 +1,11 @@
+{
+  "storage_type": "qiniu",
+  "segment_duration": "3",
+  "quality_crf": "23",
+  "cache_path": "C:\\Users\\Administrator\\AppData\\Local\\VideoSliceUploader\\Cache",
+  "saved_time": "2025-12-05 16:03:40",
+  "qiniu_access_key": ""***************-",
+  "qiniu_secret_key": "***************-LT",
+  "qiniu_bucket_name": "22",
+  "qiniu_domain": "f.com"
+}
